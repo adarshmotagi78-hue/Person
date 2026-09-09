@@ -1,0 +1,8 @@
+a=int(input("Enter First name"))
+b=int(input("Enter last name"))
+c=int(input("Enter division"))
+d=int(input("Enter college"))
+print("First name",a)
+print("last name",b)
+print("Enter division",c)
+print("Enter college",d)
